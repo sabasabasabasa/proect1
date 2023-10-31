@@ -1,0 +1,37 @@
+div{
+  background-color: rgb(115, 115, 255);
+  width: 300px;
+  height: 500px;
+  display: inline-block; 
+
+}
+
+.item-2{
+  background-color: rgb(255, 0, 0);
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+
+}
+ 
+
+.item-3{
+  background-color: rgb(3, 94, 0);
+  width: 200px;
+  height: 100px
+
+}
+
+.item-4{
+  background-color: rgb(0, 4, 58);
+  width: 200px;
+  height: 100px
+
+}
+
+.item-5{
+  background-color: rgb(175, 175, 175);
+  width: 200px;
+  height: 100px
+
+}
